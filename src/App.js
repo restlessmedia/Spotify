@@ -1,10 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 
-const doStuff = () => {
-
-}
-
 function App() {
   return (
     <div className="App">
